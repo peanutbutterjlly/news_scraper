@@ -26,13 +26,15 @@ def getArticleText(url: str) -> tuple[list, str | None]:
     return article.keywords, article.summary
 
 
-def main():
+def get_news(num_links: int = 20) -> None:
+    """gets the news from num_links number of links and writes it to summary.txt;
+    num_links defaults to 20. source off all links is y-combinator"""
     from textwrap import fill
     from time import perf_counter
 
     print("starting summarization")
     tic = perf_counter()
-    links = getLinks(20)
+    links = getLinks(num_links)
     with open("summary.txt", "w") as f:
         for url in links:
             print(f"summarizing {url}")
@@ -49,4 +51,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    get_news()

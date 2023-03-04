@@ -1,261 +1,233 @@
-https://noahpinion.substack.com/p/honestly-its-probably-the-phones 
-keywords: [unhappiness, honestly, probably, phones, media, teen, social, world, internet, girls, smartphones,
-theres] 
+https://bctimeslip.skullcrackersuite.org/index.php/2018/02/11/passing-for-human-pkd-in-vancouver/ 
+keywords: [convention, kathy, life, timeslip, pkd, human, bc, walshs, day, phils, passing, michael, vancouver,
+phil, susan] 
 
-And that means that if we’re looking for one big “silver bullet” or “grand unified theory” of modern
-teenage unhappiness, phones are probably the place to start looking. The burden of proofNow, just
-because phones are a good prior does not mean that we should conclude that phones are the culprit.
-(2022) with a similar experiment and similar findings for other social media platforms:We randomly
-allocated 154 participants..to either stop using [social media] (Facebook, Twitter, Instagram, and
-TikTok) for 1 week or continue to use [social media] as usual. Participants were randomly assigned
-to keep their phones on the table or to put their phones away during the meal. Another adaptation is
-probably to take social media less seriously.
+Phil, dejected once again, took the plane to Vancouver alone, wearing an old raincoat and carrying
+only a battered suitcase and a bible. By the end of the second day, Phil had made up his mind to
+stay in Vancouver. Although he continued to visit the Walsh’s and accompany them to dinner parties,
+the first blush of Vancouver was starting to fade. If he could fake being a human so well, how did
+he know that everyone else wasn’t doing the same? A few days after the Walsh’s had thrown Phil out
+of their home, Susan received a phone call from Phil.
 
 ----------------------------------------------------------------------------------------------------
 
-https://vermaden.wordpress.com/2023/03/02/freebsd-home-audio-studio/ 
-keywords: [freebsd, mac_priority, grep, audio, setup, studio, alsa_seq_server, package, realtime, jack,
-software, etcrcconf] 
+https://phys.org/news/2023-03-lane-hidden-chaotic-crowds.html 
+keywords: [professor, crowds, lane, formation, rogers, mathematical, order, chaotic, stick, theory,
+pedestrians, pass, lanes, researchers, hidden] 
 
-This time it will be about setting up Home Audio Studio on a FreeBSD 13.1 system. The idea is to use
-software like:Jack – audio/jackQtractor – audio/qtractorArdour – audio/ardourMuSE Sequencer –
-audio/muse-sequencerThe first step is to setup Jack on FreeBSD – make sure to setup the realtime
-mode – this is very important. # echo 'kld_list="${kld_list} mac_priority"' >> /etc/rc.conf #
-kldload mac_priorityThen add yourself to realtime group. # pw groupmod realtime -m yourself # grep
-realtime /etc/group realtime:*:47:yourselfYou will need to install audio/jack package. # grep jack
-/etc/rc.conf jackd_enable="YES" jackd_user="username" jackd_rtprio="YES" jackd_args="-r -d oss
--r44000 -p1024 -n2 -w16 -i4 -o8 -C /dev/dsp0 -P /dev/dsp0"The Qtractor will also require audio/alsa-
-seq-server to work.
-
-----------------------------------------------------------------------------------------------------
-
-https://apnews.com/article/moon-time-zone-space-2b0124415c14755e08a58e1b5ed5362a 
-keywords: [ap, moon, lunar, agency, zone, kansas, europe, pushing, world, european, city, space] 
-
-With more lunar missions than ever on the horizon, the European Space Agency wants to give the moon
-its own time zone. With more lunar missions than ever on the horizon, the European Space Agency
-wants to give the moon its own time zone. (AP Photo/Charlie Riedel, File)CAPE CANAVERAL, Fla. (AP) —
-With more lunar missions than ever on the horizon, the European Space Agency wants to give the moon
-its own time zone. That helps to split the time difference between NASA and the Canadian Space
-Agency, and the other partnering space programs in Russia, Japan and Europe. The international team
-looking into lunar time is debating whether a single organization should set and maintain time on
-the moon, according to the European Space Agency.
+This mathematical analysis unifies conflicting viewpoints on the origin of lane formation, and it
+reveals a new class of structures that in daily life may go unnoticed. Professor Rogers said, "At a
+glance, a crowd of pedestrians attempting to pass through two gates might seem disorderly but when
+you look more closely, you see the hidden structure. Lane formationThe single-file processions
+formed at busy zebra crossings are only one example of lane formation, and this study is likely to
+have implications for a range of scientific disciplines, particularly in the fields of physics and
+biology. Lead author Dr. Karol Bacik said, "Lane formation doesn't require conscious thought—the
+participants of the experiment were not aware that they had arranged themselves into well-defined
+mathematical curves." "What we've developed is a neat mathematical theory that forecasts the
+propensity for lane formation in any given system," said Professor Rogers.
 
 ----------------------------------------------------------------------------------------------------
 
-https://www.nature.com/articles/d41586-023-00601-4 
-keywords: [impact, million, dimorphos, dart, asteroid, researchers, space, telescopes, spacecraft, didymos,
-collision, asteroids, lost, kilograms] 
-
-The Didymos asteroid system is in the centre and the stars appear as streaks.Credit: University of
-Canterbury Ōtehīwai Mt John Observatory/UCNZLast September, NASA’s Double Asteroid Redirection Test
-(DART) spacecraft smashed into an asteroid, deliberately altering the rock’s trajectory through
-space in a first test of planetary defence. DART, which was the size of a golf cart, collided with a
-Great Pyramid-sized asteroid called Dimorphos. Microseconds later, the main body of the spacecraft
-collided with the rocky surface next to the boulder — and the US$330-million DART shattered to bits.
-Dimorphos is 151 metres wide and orbits the larger asteroid Didymos. Images taken as DART approached
-Dimorphos on 26 September show the asteroid looking like an egg covered in boulders.
-
-----------------------------------------------------------------------------------------------------
-
-https://www.nature.com/articles/nature.2013.12219 
-keywords: [ancestry, india, northern, reveal, ago, genomes, indian, australian, study, flow, australia, gene,
-genetic, australians, aboriginal] 
-
-Northern Aboriginal Australians can trace as much as 11% of their genomes to migrants who reached
-the island around 4,000 years ago from India, a new study suggests. Irina Pugach, a postdoctoral
-researcher from Stoneking’s lab, discovered signs of the Indian migration by comparing genetic
-variation across the entire genomes of 344 individuals. She confirmed an ancient association between
-the genomes of Australians, New Guineans, and the Mamanwa — a Negrito group from the Philippines.
-But Pugach also found evidence of more recent gene flow from India and northern Australia, which
-took place around 141 generations ago. “Gene flow is likely to have occurred prior to European
-colonization, but not sufficient to disperse through pre-existing peoples.”
-
-----------------------------------------------------------------------------------------------------
-
-https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds 
-keywords: [creating, scene, lighting, image, rpg, using, depth, techniques, game, photoshop, normal,
-backgrounds, used, isometric, map] 
-
-One of my ideas for using the backgrounds in Unity game engine, was to remove the lighting from the
-image and then add it back in using custom shaders. In order to get my own lighting I needed to
-create a normal map for the 2D scene. The resulting normal map is far from perfect but sufficient
-enough for my testing. The lighting wraps around surfaces in an almost convincing way in some places
-and makes a crude illusion of scene lighting. I tried a few different techniques using the depth and
-normal maps in a custom Unity URP shader I created in Amplify Shader Editor.
-
-----------------------------------------------------------------------------------------------------
-
-https://www.finleycms.com/careers/ 
-keywords: [tools, thats, careers, technologyat, startups, modern, structured, tech, todays, financial, youre] 
-
-Build the future of financial technologyAt Finley, we believe today's innovative companies deserve
-financial tools that give them peace of mind and control over their own growth. That's why we're
-creating modern software to help startups navigate the structured finance space, which remains
-inefficient, low-tech, and opaque. We have a modern tech stack, we're remote-friendly, and we're an
-engineering-first company. If you're interested in learning more, we'd love to chat! Explore job
-opportunities
-
-----------------------------------------------------------------------------------------------------
-
-https://www.the-tls.co.uk/articles/shelf-life-afterthoughts-irina-dumitrescu/ 
-keywords: [covers, books, judging] 
+https://www.youtube.com/watch?v=LJay5YW4fLA 
+keywords: [earn, life, customers] 
 
 
 
 ----------------------------------------------------------------------------------------------------
 
-https://github.com/dcantrell/bsdutils 
-keywords: [freebsd, coreutils, using, tree, script, project, dcantrellbsdutils, alternative, source, software,
-patches, gnu, run, need, file] 
+https://www.morling.dev/blog/finding-java-thread-leaks-with-jdk-flight-recorder-and-bit-of-sql/ 
+keywords: [event, start, thread, finding, java, recorder, bit, stacktrace, runnable, jdk, sql, flight, ts,
+null, jfr, threads, leaks, object] 
 
-bsdutilsThis project contains a GNU coreutils-like collection of utilities from the FreeBSD source
-code tree. The project began in October 2017 and initially ported code from the OpenBSD source tree.
-Importing A New Release Of FreeBSDWhen a new release of FreeBSD is made, the import-src.sh script
-should be used to update the source tree. This is the step that updates the patches for the new
-FreeBSD source. If you wish to use the top-level Makefile (which is just a simple wrapper around
-meson), you will need GNU make.
-
-----------------------------------------------------------------------------------------------------
-
-https://github.com/openai/openai-python/blob/main/chatml.md 
-keywords: [main, today, text, im_end, format, openaipythonchatmlmd, chatml, chatgpt, token, im_start,
-openaiopenaipython, model, user] 
-
-As a developer, you can use our higher-level API and won't need to iteract directly with this format
-today — but expect to have the option in the future!) ChatGPT models instead expect a structured
-format, called Chat Markup Language (ChatML for short). Knowledge cutoff: 2021-09-01Current date:
-2023-03-01", {"token": "<|im_end|>"}, "", {"token": "<|im_start|>"}, "userHow are you", {"token":
-"<|im_end|>"}, "", {"token": "<|im_start|>"}, "assistantI am doing well! ", {"token": "<|im_end|>"},
-"", {"token": "<|im_start|>"}, "userHow are you now? ", {"token": "<|im_end|>"}, "" ]You could also
-represent it in the classic "unsafe raw string" format.
+Finding Java Thread Leaks With JDK Flight Recorder and a Bit Of SQLThe other day at work, we had a
+situation where we suspected a thread leak in one particular service, i.e. Luckily, Java’s built-in
+event recorder and performance analysis tool, JDK Flight Recorder, exposes all the data you need to
+identify thread leaks and their cause. outputformat verticalRun the following SQL query for finding
+thread start events without corresponding thread join events:1 2 3 4 5 6 7 8 SELECT ts . In that
+case the stack traces of the thread start events may not tell you enough about the root cause of the
+problem, i.e. Equipped with JDK Flight Recorder, JDK Mission Control, and JFR Analytics, identifying
+and fixing thread leaks in your Java application is becoming a relatively simple task.
 
 ----------------------------------------------------------------------------------------------------
 
-https://phys.org/news/2023-02-coexistence-algae-fungi.html 
-keywords: [algae, type, fungi, symbiosis, corticioid, fungal, czech, institute, researchers, alcobioses,
-common, discovered, botany, coexistence] 
+https://madned.substack.com/p/ascii-double-murder 
+keywords: [binary, bits, octal, guy, went, wanted, cents, didnt, wasnt, ascii, doublemurder] 
 
-Credit: Institute of Botany, Czech Academy of SciencesResearchers from the Institute of Botany,
-Czech Academy of Sciences, have described the symbiotic relationship between fungi and algae that
-science has largely overlooked until now. The coexistence of algae and corticioid basidiomycetes,
-which are common in temperate forests, has been given a new name: "alcobiosis." We discovered that
-this is a close symbiosis of fungi and algae, not a lichen, though, because the fungus does not
-depend on its alga for nourishment." The new term introduced by the researchers for this type of
-coexistence, "alcobiosis," is formed by letters from the three key words: algae, corticioid fungi
-and symbiosis. They discovered that the symbiosis is very common and occurs in a great many
-corticioid fungi across the class of agaricomycetes.
+Hex worked all these clubs, and she said the star performer was a guy named ASCII, who really didn’t
+get along at all with Octal. Then I closed the Octal file, even though it still seemed like ASCII
+had some hand in his death. That ASCII guy was a shifty character. It was time to call up ASCII
+again because I had a lot of new questions for him. And ASCII didn’t want the likes of a guy like
+that at his table.
 
 ----------------------------------------------------------------------------------------------------
 
-https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb 
-keywords: [table, spec, os, writing, rust, implement, write, memory, instructions, address, pub, run, riscv] 
+https://www.scientificamerican.com/article/the-tunguska-mystery-100-years-later/ 
+keywords: [event, cosmic, lake, crater, meters, mystery100, tunguska, later, region, team, asteroid, impact] 
 
-When writing an OS, you need to take care of things like paging, kernel/usermode privilege
-separation, interrupts, etc., and I implemented these based on the RISC-V Privilege spec document.
-Writing a CISC core such as x86 is really tough, so if you're going to write an OS for fun and run
-it on an FPGA, I think RISC-V is a natural choice. Anyway, although I enumerated some reasons above,
-the reason why I adopted Rust in this project was that I just felt like writing it in Rust.
-According to the RISC-V spec, this subset of instructions makes up 50-60% of most programs and use
-of compressed instructions can reduce code size by 25-30%. I did this with help from Writing an OS
-in Rust, the Rust official docs, The Embedded Rust Book and RustでRISC-V OS自作！はじめの一歩.
-
-----------------------------------------------------------------------------------------------------
-
-https://ras.ac.uk/news-and-press/news/royal-astronomical-society-announces-all-journals-publish-open-access-2024 
-keywords: [publish, publishing, 2024, science, published, research, royal, journals, access, announces,
-university, society, open, ras, astronomical] 
-
-The Royal Astronomical Society (RAS) has today announced that all journals published by the Society
-will be Open Access (OA) from January 2024. This move will enable everyone in the global community
-to have free, immediate, and unrestricted access to the high-quality research published in the
-portfolio of RAS journals. Monthly Notices of the Royal Astronomical Society (MNRAS), Monthly
-Notices of the Royal Astronomical Society Letters (MNRASL), and Geophysical Journal International
-(GJI) will join RAS Techniques and Instruments (RASTI), a new journal launched by the Society in
-2021, in being fully OA. The RAS journals portfolio will continue to publish alongside Astronomy &
-Geophysics, the RAS’s magazine for its Fellows, which will see no change. All submissions to RAS
-journals undergo peer review, and their suitability for publication is assessed by appropriate
-specialist subject editors.
+Ever since the Tunguska event, scientists and lay enthusiasts alike have wondered what caused it.
+The study of the Tunguska event is important because past collisions with extraterrestrial bodies
+have had major effects on the evolution of the earth. The researchers have also extrapolated their
+findings to larger but rarer incidents such as the Tunguska event. Understanding the Tunguska event
+could help us prepare for such an eventuality and maybe even take steps to avoid its occurrence
+altogether. Astrophysicists have since created numerical simulations of the Tunguska event to try to
+decide among the competing hypotheses.
 
 ----------------------------------------------------------------------------------------------------
 
-https://www.rechargenews.com/energy-transition/100-000-years-of-power-us-japan-team-hails-h2-boron-plasma-fusion-breakthrough/2-1-1411318?zephr_sso_ott=QAIu08 
-keywords: [energy, plasma, reactor, 100000, h2boron, hails, tae, national, reactors, team, power, fusion, fuel,
-hydrogenboron, world, usjapan, breakthrough] 
+https://www.vice.com/en/article/93k957/canada-bc-cocaine-sale 
+keywords: [heroin, start, drugs, cocaine, company, mdma, companies, supply, safe, drug, canada, produce,
+selling, programs, legally, health] 
 
-An innovative nuclear fusion technology that uses no radioactive materials and is calculated capable
-of “powering the planet for more than 100,000 years”, has been successfully piloted by a US-Japanese
-team of researchers. California-based TAE Technologies, working with Japan’s National Institute for
-Fusion Science (NIFS), have completed first tests of a hydrogen-boron fuel cycle in magnetically-
-confined plasma, which could generate cleaner, lower cost energy that that produced by the more
-common deuterium-tritium (D-T) fusion process. “This experiment offers us a wealth of data to work
-with and shows that hydrogen-boron has a place in utility-scale fusion power. The TAE
-Technologies/Japanese National Institute for Fusion Science team Photo: TAE“Inventing fusion
-reactors that produce net energy is one thing, delivering it as a reliable, grid-ready source of
-electricity is another. By choosing to pursue hydrogen-boron as a fuel cycle, TAE has anticipated
-the true demands of commercial, daily use of fusion energy.
+At least two companies in British Columbia, Canada, say they’ve received exemptions from the federal
+government allowing them to produce and distribute cocaine, heroin, MDMA, or magic mushrooms. “It is
+not part of our provincial plan," he said, noting that he would be following up with Health Canada
+about the announcements. Canada already has safe supply programs, through which people with opioid
+addictions can access pharmaceutical heroin and fentanyl. There are no safe supply programs for
+cocaine, but activist group the Drug User Liberation Front has repeatedly handed out free cocaine,
+heroin and meth, as part of safe supply protests in Vancouver. The U.S. does not have any safe
+supply programs.
 
 ----------------------------------------------------------------------------------------------------
 
-https://news.uci.edu/2023/02/27/early-life-stress-can-disrupt-maturation-of-brains-reward-circuits-promoting-disorders/ 
-keywords: [brain, disrupt, promoting, circuit, behaviors, circuits, adversity, earlylife, reward, disorders,
-stress, brains, uci, maturation, mice, professor, pathway] 
+https://github.com/fellerts/procal 
+keywords: [simple, binary, wrote, turns, fellertsprocal, bit, toggled, calculator, programming, decimal,
+qtbased, toobits, representation, table] 
 
-“We know that early-life stress impacts the brain, but until now, we didn’t know how,” Baram said.
-We discovered a new pathway within the reward circuit that expresses a molecule called
-corticotropin-releasing hormone that controls our responses to stress. They found that this new
-pathway, when stimulated, suppresses several types of reward behaviors in male mice. Inhibiting the
-pathway restored normal reward behaviors in males, yet it had no effect in females. “We believe that
-our findings provide breakthrough insights into the impact of early-life adversity on brain
-development and specifically on control of reward behaviors that underlie many emotional disorders.
-
-----------------------------------------------------------------------------------------------------
-
-https://spectrum.ieee.org/xerox-alto 
-keywords: [technology, director, altos, xerox, valleys, living, semiconductors, twitter, later, history, world,
-50, software, silicon, shustek, revolutionary] 
-
-David C. Brock is a historian of technology, director of curatorial affairs at the Computer History
-Museum, and director of CHM’s Software History Center. He focuses on histories of computing and
-semiconductors as well as on oral history and is occasionally lucky enough to use the restored Alto
-in the museum’s Shustek Research Archives. He is the coauthor of Moore’s Law: The Life of Gordon
-Moore, Silicon Valley’s Quiet Revolutionary (Basic Books, 2015) and Makers of the Microchip(The MIT
-Press, 2022). He is on Twitter @dcbrock and on the Fediverse @dcbrock@federate.social.
+procal: A simple Qt-based programming calculatorAny python code that can be eval() 'd and cast to
+float without raising an exception is accepted. The binary representation of the result is shown in
+the table, and the binary, decimal, and hexadecimal representation is displayed at the bottom. Bits
+in the binary table can be toggled by clicking them (click and drag to toggle a range of bits).
+Right-clicking a bit turns it into a sign bit, which makes the decimal representation negative. I
+wrote this after some frustration with the default Gnome calculator's programming mode:
 
 ----------------------------------------------------------------------------------------------------
 
-https://www.macleans.ca/society/science/this-geologist-found-the-oldest-water-on-earth-in-a-canadian-mine/ 
-keywords: [water, samples, life, thats, ocean, surface, earthin, timmins, sherwood, lollar, geologist, tests,
-oldest, canadian] 
+https://fly.io/phoenix-files/phoenix-dev-blog-streams/ 
+keywords: [streams, users, id, new_user, blog, socket, phoenix, user, stream, dev, div, dom, items] 
 
-When Barbara Sherwood Lollar sent water samples to a colleague at the University of Oxford for
-testing, she knew this was no ordinary water. “It literally is following your nose right up to the
-rock, to find the crack or the fractures where the water is discharging,” says Sherwood Lollar. “As
-the water sits there, it accumulates them, like passengers getting on a train,” says Sherwood
-Lollar. Tiny chemolithotrophic microbes—an example, as Sherwood Lollar puts it, of life “hanging on
-by its toenails”—were present in the water and feasting on hydrogen and sulfate. If water can breed
-life far beneath Timmins, there’s a chance the same is true on the Red Planet.
+Image by Annie RuygtThis dev blog introduces LiveView's new Streams feature. In practice it looked
+like this:def render ( assigns ) do ~H"" " <div id=" users " phx-update=" append "> <div :for={user
+<- @users} id={" user - #{user.id}"}> <%= user . The following two lines are equivalent:stream (
+socket , :users , users ) stream ( socket , :users , users , dom_id: & "users- #{ &1 . id } " )Next,
+in the template in render/1 , we mark the container as phx-update="stream" , then we use a regular
+for comprehension, but with two changes. Streams are placed under a @streams assign, and when you
+enumerate a stream you get the computed DOM id along with each item. For deletes, stream_delete
+works as you'd expect:stream_delete ( socket , :users , user )Here's a fully realized example of
+what streams unlock for LiveView developers.
 
 ----------------------------------------------------------------------------------------------------
 
-https://www.ams.org/notices/200902/rtx090200212p.pdf 
-keywords: [] 
+https://www.youtube.com/watch?v=Q07CTj4fUeY 
+keywords: [germans, measured, 283, milliseconds, smarter, day, mechanically] 
 
 
 
 ----------------------------------------------------------------------------------------------------
 
-https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/ 
-keywords: [thousands, battery, electric, agency, service, postal, stations, nationwide, evs, usps, vehicles,
-fleet, plans, charging, vehicle, starts] 
+https://solarianprogrammer.com/2020/06/25/getting-started-mathgl-windows-linux/ 
+keywords: [gr, build, windows, getting, started, article, mathgl, linux, folder, codeblocks, project, c,
+include, install] 
 
-Postal Service's plans for a nationwide fleet of electric vehicles are getting closer to being
-realized. The service awarded contracts on Tuesday for 9,250 battery electric vehicles and for more
-than 14,000 charging stations. The vehicles purchased are Ford E-Transit Battery Electric Vehicles
-(BEVs), which according to USPS are "100 percent electric." The US Postal Service (USPS) Next
-Generation Delivery Vehicle (NGDV) is displayed during the Consumer Electronics Show (CES) in Las
-Vegas, Nevada on January 5, 2023. As BEV technology matures and capabilities increase, the Postal
-Service will continue to review its ability to utilize and expand BEV usage."
+Getting started with C++ MathGL on Windows and LinuxIn this article, I will show you how to install
+and get started with the C++ interface of MathGL on Linux and Windows. Install MathGL on Windows:On
+Windows, the recommended approach to install MathGL is to use the official MathGL binaries. Open the
+include folder of MathGL and copy the include folder mgl2. Install MathGL on Linux:For Linux, I will
+exemplify the installation part on a Debian based system. C++ MathGL usage example:Here is a small
+C++ MathGL program that will draw a wave curve and save the graphic in an image file named
+mgl_example.png:1 #include <mgl2\mgl.h> 2 3 int main () { 4 mglGraph gr ; 5 gr .
+
+----------------------------------------------------------------------------------------------------
+
+https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/ 
+keywords: [careful, using, environment, tmux, export, newsession, variables, echo, server, variable, foo,
+global, session] 
+
+tmux has an interesting quirk in the way it handles environment variables that if you’re not careful
+can cause some seemingly strange behavior. From the tmux man page:When the server is started, tmux
+copies the environment into the global environment; in addition, each session has a session
+environment. Each session also has an environment that is merged with the original global
+environment but it only has a set list of environment variables that are updated. You can see this
+with the following command in a tmux session:> tmux show-environment -DISPLAY -KRB5CCNAME
+-SSH_AGENT_PID -SSH_ASKPASS SSH_AUTH_SOCK -SSH_CONNECTION -WINDOWIDkj -XAUTHORITYThis can cause some
+interesting consequences when you have multiple named tmux sessions running. > export FOO = foo >
+tmux new-session -t first > echo $FOO foo > export FOO = bar > tmux -L other new-session -t second >
+echo $FOO bar
+
+----------------------------------------------------------------------------------------------------
+
+https://wyclif.substack.com/p/the-italian-city-states-as-a-distant 
+keywords: [mirror, italy, modern, citystates, venice, italian, power, renaissance, century, political, europe,
+distant] 
+
+It is that present-day Europe and the West look like the Renaissance city-states of Italy. The
+Italian city-states were rich, powerful, economically dynamic, politically advanced, and culturally
+dominant. Italian city-states: the potted historyNorth Italy is still one of the richest areas of
+Europe. It was true of the Italian city-states. So, as Barbara Tuchman said of the fourteenth
+century, Renaissance Italy holds up a distant mirror to our own time.
+
+----------------------------------------------------------------------------------------------------
+
+https://www.nature.com/articles/d41586-023-00625-w 
+keywords: [genetic, therapy, genome, therapies, scandal, crisprcas9, crispr, babies, editing, human, moving,
+embryos, university, genomeediting, research, researchers] 
+
+In 2018, there were very few trials of somatic genome-editing therapies; now there are well over
+100, says Lovell-Badge. The treatment could become the first genome-editing therapy to be approved,
+but researchers are watching anxiously to see how much it will cost. It is hoped that these
+techniques, called base editing and prime editing, can yield safer genome-editing therapies. The
+relative dearth of information on such sequences from individuals of non-European descent could
+leave regions of the world without access to genome editing therapies that will work for them. It’s
+possible that genome-editing therapies, which also use snippets of RNA, will involve similar
+delivery systems, says Musunuru, so could use the same fundamental technology.
+
+----------------------------------------------------------------------------------------------------
+
+https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/ 
+keywords: [image, using, block, experience, bmaptools, copy, oxidizing, bmap, source, rewriting, python, file,
+project, rust] 
+
+Oxidising means to rewrite some code, in this case a project written in Python, into Rust code.
+Usually a project is oxidised into Rust because of many reasons, the main usually being memory
+safety. Of course, rewriting a project in Rust is pointless without good reasons: if a solution to a
+problem already exists, there should be no need to rewrite it :-). SD card or USB flash drive)Bmap
+fileBut what exactly is a bmap file and why is it so useful for this purpose? At the same time, it
+also needed to fetch the bmap file remotely and accept a URL as input argument on the command line.
+
+----------------------------------------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=n9m3PHfASOI 
+keywords: [smalltalk, zag, esug, 2022] 
+
+
+
+----------------------------------------------------------------------------------------------------
+
+https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/ 
+keywords: [law, ice, css, break, agencies, federal, cellsite, devices, towers, phone, service, secret, warrant,
+report, data, fake] 
+
+The US Secret Service and Immigration and Customs Enforcement (ICE) agencies have failed to follow
+the law and official policy regarding the use of cell-site simulators, according to a government
+audit. Cell-site simulators (CSS), also known as Stingrays or IMSI Catchers, are devices that serve
+as decoy cell towers. But annoyingly it redacts statistical data about the number of investigations
+utilizing CSS devices in 2020 and 2021. And the following year, the US Supreme Court ruled 5-4 in US
+v. Carpenter that the warrantless search and seizure of cell-site data violated the Fourth
+Amendment. But the report, he said, indicates that there's still a lot of confusion about
+differences between historical cell-site data, real-time cell-site data, and emergency access, and
+so on.
+
+----------------------------------------------------------------------------------------------------
+
+https://c64os.com/post/howthekeyboardworks 
+keywords: [lines, bits, works, bit, keyboard, cpu, c64, port, keys, cia, key] 
+
+How the C64 Keyboard WorksI'm almost ashamed to admit it, but just 1 year ago when I started working
+on C64 OS, I didn't have the first clue how the C64 Keyboard worked. The keyboard port is a block of
+pins in the middle of the logic board, which the keyboard is connected to. I took apart a C64
+keyboard, shown below, so we can see what its insides look like. UPDATE: March 3, 2023Below you can
+see a visualization of the columns listed in the table above, superimposed over the actual C64
+keyboard. This also lets us map the Keyboard PCB letter/number scheme to the C64 logicboard's 20-pin
+keyboard connector.
 
 ----------------------------------------------------------------------------------------------------
 
