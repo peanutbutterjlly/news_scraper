@@ -5,6 +5,9 @@ This repository contains a Python script that scrapes the top news links from Y 
 Uses Python 3.10 but other versions may work.  
 After cloning the repository, pip install the requirements.txt file.  
   
+After installing the requirements, you'll need to get the tokenizers;  
+Open a python terminal in your virtual environment (if installed, but after installing the requirements.txt) and import nltk then call the download method "nltk.download('punkt').
+  
 A .env file will need to be made with the following keys in the same directory as the main.py file(BE SURE TO INSERT YOUR OWN VALUES!):  
 EMAIL_HOST  
 EMAIL_HOST_USER  
